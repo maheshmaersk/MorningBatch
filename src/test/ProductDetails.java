@@ -1,3 +1,5 @@
+package test;
+
 public class ProductDetails extends CoreProduct {
 
     public static void main(String[] args) {

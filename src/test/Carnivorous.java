@@ -1,3 +1,5 @@
+package test;
+
 abstract class Carnivorous extends Animal{
 
 

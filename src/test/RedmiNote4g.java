@@ -1,3 +1,5 @@
+package test;
+
 public class RedmiNote4g implements Redmi,Xiaomi{
     @Override
     public void modelNumber() {

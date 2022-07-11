@@ -1,3 +1,5 @@
+package test;
+
 public class CoreProduct {
 
     public static void main(String[] args) {

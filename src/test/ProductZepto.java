@@ -1,3 +1,5 @@
+package test;
+
 public class ProductZepto {
 
     private int id;

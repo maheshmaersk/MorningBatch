@@ -1,3 +1,5 @@
+package test;
+
 public class Tiger extends Animal{
     @Override
     public void animalSound() {

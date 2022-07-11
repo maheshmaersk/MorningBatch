@@ -1,3 +1,5 @@
+package test;
+
 public class IntAbsExam extends   Carnivorous{
 
 

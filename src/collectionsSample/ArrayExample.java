@@ -14,7 +14,7 @@ public class ArrayExample {
         marks[2]=7657;
         marks[3]=435;
         marks[4]=544;
-        marks[5]=76544;
+//        marks[5]=76544;
 
         for (int i = 0; i < marks.length; i++) {
             System.out.println(marks[i]);
